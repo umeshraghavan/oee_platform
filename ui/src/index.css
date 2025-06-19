@@ -1,0 +1,7 @@
+/* Reset and base styles for the app */
+body {
+  margin: 0;
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  background: #f5f7fa;
+  color: #22223b;
+}
